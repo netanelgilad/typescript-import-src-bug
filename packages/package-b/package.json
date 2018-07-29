@@ -1,0 +1,11 @@
+{
+  "name": "@check/package-b",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@check/package-a": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.0-dev.20180728"
+  }
+}
